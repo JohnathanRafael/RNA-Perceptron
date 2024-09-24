@@ -1,0 +1,3 @@
+import tela
+
+tela.exibirJanela()
